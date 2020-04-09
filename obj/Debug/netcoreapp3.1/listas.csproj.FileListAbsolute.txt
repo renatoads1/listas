@@ -1,0 +1,13 @@
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.exe
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.deps.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.runtimeconfig.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.runtimeconfig.dev.json
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\bin\Debug\netcoreapp3.1\listas.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.csprojAssemblyReference.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.csproj.CoreCompileInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.AssemblyInfoInputs.cache
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.AssemblyInfo.cs
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.dll
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.pdb
+D:\PROJETOS\VISUALSTUDIO\udemy\vetor\listas\listas\obj\Debug\netcoreapp3.1\listas.genruntimeconfig.cache
